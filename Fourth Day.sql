@@ -86,9 +86,6 @@ end
 
 exec sp_birthday_employees_Chang
 
-select *
-from birthday_employees_Chang
-
 drop table birthday_employees_Chang
 
 --6.
